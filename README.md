@@ -11,7 +11,7 @@ For the first part the following activities are made:
 
 * Using Google Colaboratory two datasets from the list at [review dataset](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt) are **extracted** , one into each notebook.
 
-* **Transform** the dataset to fit the tables in the [schema file](../Resources/schema.sql) created
+* **Transform** the dataset to fit the tables in the [schema file](Schema.sql) created
 
 * **Load** the DataFrames that correspond to tables into an RDS instance.
 
