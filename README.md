@@ -34,4 +34,8 @@ And for the second part the following activities are made:
 
 ## Outcomes
 
+* [Report](Amazon_analysis.md) containing findings and analysis of Amazon's Vine program
+
+* Transformed and loaded tables into an RDS instance
+
 
